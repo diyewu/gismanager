@@ -18,6 +18,7 @@ String basePath = request.getScheme()+"://"+request.getServerName()+":"+request.
 		<![endif]-->
 	</head>
 	<body class="demo-1">
+	
 		<div id="container" class="container intro-effect-push">
 		<header class="header">
 			<div class = "video-class" id = "playearthmap">
